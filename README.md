@@ -121,16 +121,6 @@ Features:
 
 **Tech Stack**: Python, MySQL (XAMPP), Dash, Plotly
 
-### 🎓 N-Queen Problem Visualization
-**Educational teaching tool with interactive backtracking demonstration**
-
-- 🎨 Full-screen interactive presentation
-- ♟️ Animated chessboard visualization
-- 🌳 DOM-rendered Solution Space Tree (avoiding file:// security issues)
-- 🎯 Step-by-step algorithm walkthrough
-
-**Tech Stack**: HTML, CSS, JavaScript
-
 ### 🌐 Web Development Projects
 
 #### MIT Event Manager Website
@@ -280,11 +270,13 @@ Minor Degree: **Business Analytics**
 
 <div align="center">
 
-![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramnahata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=paramnahata&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=paramnahata&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=paramnahata&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paramnahata&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paramnahata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=paramnahata&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -323,7 +315,7 @@ Minor Degree: **Business Analytics**
 
 **Let's build something amazing together!**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=paramnahata&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://komarev.com/ghpvc/?username=paramnahata&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *"Discipline from martial arts, innovation through code."*
 
