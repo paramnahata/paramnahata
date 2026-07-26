@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-paramnahata.ct.ws-blue?style=for-the-badge)](https://paramnahata.ct.ws)
+[![Portfolio](https://img.shields.io/badge/Portfolio-paramnahata.ct.ws-blue?style=for-the-badge)](https://paramnahata.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-param--nahata-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/param-nahata)
 [![Email](https://img.shields.io/badge/Email-nahataparam10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahataparam10@gmail.com)
 
